@@ -12,6 +12,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 4. Документирование кода
 5. Unit-тесты и средства автоматизации тестирования
 6. Верификация и оценка качества программного продукта
-7. [**Конфигурационное управление**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/9ec067f961489eeeaac2b671be61202a4a8b44b5/configmanagment)
+7. [**Конфигурационное управление**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/61f0ee3b596c8f762d5afd121c5a8e380c70f928/CM.md)
 8. Прочие CASE-cредства
 
