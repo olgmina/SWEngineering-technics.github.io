@@ -35,7 +35,8 @@
 
  - [x]  Познакомтесь с [Обзором](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
  - [x]  Создайте [проект](https://guides.github.com/activities/hello-world)
- - [x]  Добавьте к нему [описание](https://guides.github.com/features/wikis/)
+ - [x]  Добавьте к нему [описание](https://guides.github.com/features/wikis/) 
+        Пример 1 [Оформление описания проекта](https://github.com/cfpb/idea-box) 
  - [x]  Внесите [добавление](https://guides.github.com/activities/forking/):
     1. Из каталога выберите [проект](https://github.com/olgmina/student-project-catalog.git), 
     2. сделайте собственную вилку для внесения изменений, 
