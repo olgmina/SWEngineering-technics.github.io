@@ -31,11 +31,12 @@
 
 ## Github
 
-### Задания
- [x]  Познакомтесь с [Обзором](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
- [x]  Создайте [проект](https://guides.github.com/activities/hello-world)
- [x]  Добавьте к нему [описание](https://guides.github.com/features/wikis/)
- [x]  Внесите [добавление](https://guides.github.com/activities/forking/):
+### Задания 
+
+ - [x]  Познакомтесь с [Обзором](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+ - [x]  Создайте [проект](https://guides.github.com/activities/hello-world)
+ - [x]  Добавьте к нему [описание](https://guides.github.com/features/wikis/)
+ - [x]  Внесите [добавление](https://guides.github.com/activities/forking/):
     1. Из каталога выберите проект, 
     2. сделайте собственную вилку для внесения изменений, 
     3. доработайте код или его описание, 
