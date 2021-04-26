@@ -11,12 +11,12 @@
  4. Методы программирования
     - [Java для начинающих](https://github.com/wapmorgan/java_for_beginners_book)
     
- 6. Документирование программного кода/проекта/продукта
- - [Формат github](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
- 8. [Тестирование ПО](https://github.com/olgmina/SWEngineering-technics.github.io/blob/696a37b7b80f81a6751e6d650c5db988f53e25dc/testing) (Функциональное, unit-тесты и средства автоматизации)
+ 5. Документирование программного кода/проекта/продукта
+ - -  [Формат github](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+ 6. [Тестирование ПО](https://github.com/olgmina/SWEngineering-technics.github.io/blob/696a37b7b80f81a6751e6d650c5db988f53e25dc/testing) (Функциональное, unit-тесты и средства автоматизации)
   - [Теория](https://github.com/olgmina/SWEngineering-technics.github.io/blob/42290a5ba66c0c84dd4c002133f3ac0bf7ffdc88/software%20testing%20-%20base%20course%20(svyatoslav_kulikov).pdf)
  -        [Примеры]
- 9. Верификация и оценка качества программного продукта
- 10. [**Конфигурационное управление**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/61f0ee3b596c8f762d5afd121c5a8e380c70f928/CM.md)
- 11. Прочие CASE-cредства
+ 7. Верификация и оценка качества программного продукта
+ 8. [**Конфигурационное управление**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/61f0ee3b596c8f762d5afd121c5a8e380c70f928/CM.md)
+9. Прочие CASE-cредства
 
