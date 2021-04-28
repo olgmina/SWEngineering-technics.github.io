@@ -1,4 +1,4 @@
-# Тестирование программного обеспечения** (Software Testing)
+# Тестирование программного обеспечения (Software Testing)
 **проверка соответствия между реальным и ожидаемым поведением программы, 
 осуществляемая на конечном наборе тестов, выбранном определенным образом** [IEEE Guide to Software Engineering Body of Knowledge, SWEBOK, 2004](https://github.com/ligurio/swebok-v3/blob/master/4_software_testing.markdown) 
 В более широком смысле, тестирование - это одна из техник контроля качества, включающая:
