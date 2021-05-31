@@ -4,7 +4,7 @@
 - Рефакторинг облегчает понимание программного обеспечения
 - Рефакторинг помогает найти ошибки
 - Рефакторинг позволяет быстрее писать программы
-[Фаулер М. "Рефакторинг. Улучшение существующего кода"](pdf)
+[Фаулер М. "Рефакторинг. Улучшение существующего кода"](https://github.com/olgmina/SWEngineering-technics.github.io/blob/beefef0b8ec56610843e780f33ff0c74db4f5da0/Refactoring/Martin_Fauler_-_Refaktoring_Uluchshenie_suschestvu.pdf)
 ## Запахи кода
   - дублирование кода (Duplicated Code). Нарушение принципа DRY (Don’t repeat Yourself).
   - длинный метод (Long Method).
