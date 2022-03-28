@@ -10,12 +10,12 @@ __Maven__
 ### Задание 1 Создание fx-приложения с maven
   1. Создайте новый проект Maven (убедитесь что JDK среды разработки установлено не ниже 13 версии)
   2. Выберите __Создать__ из Аrchtype
-  3. Добавить новый архтип `groupid: org.openjfx , artifactId : javafx-maven-archetypes , version: 0.0.1`
+  3. Добавить новый архтип ````groupid: org.openjfx , artifactId : javafx-maven-archetypes , version: 0.0.1````
   4. Выберите созданный архтип 
-  5. Укажите идентификатор `groupid: org.openjfx ArtifactId: hellojavafx` 
+  5. Укажите идентификатор ````groupid: org.openjfx ArtifactId: hellojavafx```` 
   6. Дайте проекту имя
-  7. Измените значение свойства archtypeArtifactId на javafx-archetype-fxml 
-  8. Добавьте новое свойство для версии `javafx: property javafx-version и value: 14` [Для поиска номера версии](https://search.maven.org/)
+  7. Измените значение свойства ```archtypeArtifactId``` на ```javafx-archetype-fxml``` 
+  8. Добавьте новое свойство для версии ````javafx: property javafx-version``` и ```value: 14```` [Для поиска номера версии](https://search.maven.org/)
    
 нажмите кнопку __Готово__ и дождитесь построения проекта ... если что-то пошло не так Сравните с [pom.xml](https://github.com/openjfx/samples/blob/master/IDE/IntelliJ/Non-Modular/Maven/hellofx/pom.xml)
 
