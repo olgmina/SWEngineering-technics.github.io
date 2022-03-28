@@ -15,7 +15,7 @@ __Maven__
   5. Укажите идентификатор ````groupid: org.openjfx ArtifactId: hellojavafx```` 
   6. Дайте проекту имя
   7. Измените значение свойства ```archtypeArtifactId``` на ```javafx-archetype-fxml``` 
-  8. Добавьте новое свойство для версии ````javafx: property javafx-version``` и ```value: 14```` [Для поиска номера версии](https://search.maven.org/)
+  8. Добавьте новое свойство для версии ``javafx: property javafx-version`` и ```value: 14```` [Для поиска номера версии](https://search.maven.org/)
    
 нажмите кнопку __Готово__ и дождитесь построения проекта ... если что-то пошло не так Сравните с [pom.xml](https://github.com/openjfx/samples/blob/master/IDE/IntelliJ/Non-Modular/Maven/hellofx/pom.xml)
 
@@ -26,8 +26,8 @@ __Maven__
 Добавьте тесты для покрытия основного функционала
 
 ### Задание 4  Выполните оборачивание исполняемого jar в exe-файл
-Для этого включите плагин `maven.plugins.launch4j` в проектный pom.xml, который формирует исполняемый jar-файл.
-В разделе <properties> определяют: наименование компании (product.company) и наименование исполняемого файла (exeFileName), а также минимальная версия jdkVersion. 
+Для этого включите плагин `maven.plugins.launch4j` в проектный `pom.xml`, который формирует исполняемый jar-файл.
+В разделе <properties> определяют: наименование компании (`product.company`) и наименование исполняемого файла (`exeFileName`), а также минимальная версия jdkVersion. 
  Основные настройки плагина определяются в разделе <executions>. 
  В секции <configuration> указываются jar-файл, exe-файл (outfile) и имя иконкb исполняемого файла (icon). 
  В секции <classPath> необходимо указать главный стартуемый java-класс (mainClas).
