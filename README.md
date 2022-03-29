@@ -17,7 +17,7 @@
     - 
  4. Документирование программного кода/проекта/продукта
  - javadocs
- - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  [Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+ - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  [Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  [Доки](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
  - [Пользователькая документация]
  5. [Тестирование ПО](https://github.com/olgmina/SWEngineering-technics.github.io/blob/e7459e6c4c46df2940c11ffdc427450debc1bd2b/testing.md) (Функциональное, unit-тесты и средства автоматизации)
   - [Теория](https://github.com/olgmina/SWEngineering-technics.github.io/blob/42290a5ba66c0c84dd4c002133f3ac0bf7ffdc88/software%20testing%20-%20base%20course%20(svyatoslav_kulikov).pdf)
