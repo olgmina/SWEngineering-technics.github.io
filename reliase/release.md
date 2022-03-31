@@ -15,15 +15,16 @@ __Maven__
   5. Укажите идентификатор ````groupid: org.openjfx ArtifactId: hellojavafx```` 
   6. Дайте проекту имя
   7. Измените значение свойства ```archtypeArtifactId``` на ```javafx-archetype-fxml``` 
-  8. Добавьте новое свойство для версии ``javafx: property javafx-version`` и ```value: 14```` [Для поиска номера версии](https://search.maven.org/)
+  8. Добавьте новое свойство для версии ``javafx: property javafx-version`` и ``value: 14`` [Для поиска номера версии](https://search.maven.org/)
    
 нажмите кнопку __Готово__ и дождитесь построения проекта ... если что-то пошло не так Сравните с [pom.xml](https://github.com/openjfx/samples/blob/master/IDE/IntelliJ/Non-Modular/Maven/hellofx/pom.xml)
 
 [Инструкции по работе и настройке Maven в среде разработке](https://github.com/olgmina/SWEngineering-technics.github.io/blob/ee5a610efdb507c35831b0fbd679f0e5cb46c3b7/reliase/IntelliJ-Idea-setting.md)
 
 ### Задание 2  Преобразуйте созданное fx-приложение в полноценный html-редактор
-Включив необходимые  зависимости соберите релиз заново
-[Настройки среды для работы Maven]()
+Включив необходимые  зависимости, соберите релиз заново.
+
+[Настройки среды для работы Maven](https://github.com/olgmina/SWEngineering-technics.github.io/blob/386f418275cbebf24102c265bee00fdb04a3bfbf/reliase/Maven-setting-IntellijIDEA.md)
 
 ### Задание 3  Включите в проект тесты
 Добавьте тесты для покрытия основного функционала
