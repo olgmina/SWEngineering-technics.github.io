@@ -19,6 +19,8 @@ __Maven__
    
 нажмите кнопку __Готово__ и дождитесь построения проекта ... если что-то пошло не так Сравните с [pom.xml](https://github.com/openjfx/samples/blob/master/IDE/IntelliJ/Non-Modular/Maven/hellofx/pom.xml)
 
+[Инструкции по работе и настройке Maven в среде разработке](https://github.com/olgmina/SWEngineering-technics.github.io/blob/ee5a610efdb507c35831b0fbd679f0e5cb46c3b7/reliase/IntelliJ-Idea-setting.md)
+
 ### Задание 2  Преобразуйте созданное fx-приложение в полноценный html-редактор
 Включив необходимые  зависимости соберите релиз заново
 
