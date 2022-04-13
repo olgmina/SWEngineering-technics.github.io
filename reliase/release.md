@@ -38,3 +38,10 @@ __Maven__
  В секции <classPath> необходимо указать главный стартуемый java-класс (mainClass).
  [Пример](https://github.com/olgmina/SWEngineering-technics.github.io/blob/d81dad5e8b539d4264005d32d6cc99a0491dda1e/pom.xml)
  
+### Задание *  Используйте maven в других проектах,
+1 Вы можете включить базу данных в свой проект Maven 2 в качестве зависимости:
+ ```<dependency>
+    <groupId>com.h2database</groupId>
+    <artifactId>h2</artifactId>
+    <version>1.0-SNAPSHOT</version>
+</dependency>```
