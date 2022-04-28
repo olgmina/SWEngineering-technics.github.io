@@ -2,7 +2,7 @@
 
 _Задание1._ Создать новый проект на github, использовать [шаблон]() для описания проекта с разметкой Markdown
 
-[Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  [Доки](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+[Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax), [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
 _Задание 2._ Загрузить проект в среду разработки. Установить плагин для работы Markdown. Поправить разметку.
 
@@ -33,13 +33,13 @@ _Задание 4._ Возьмите класс, разработанного В
 
 [Справка по javaDocs](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/Coding/Jadocs.md)
 
-*Полезно включать теги HTML в ваш текст javadoc. Например, следующее является комментарием с тегами (<p>, <tt></tt>, <i></i>), которые вы тоже можете встраивать в ваши документы. *
+*Полезно включать теги HTML в ваш текст javadoc. Например, следующее является комментарием с тегами ```(<p>, <tt></tt>, <i></i>)```, которые вы тоже можете встраивать в ваши документы.*
 
-``` <p>Many different types of exceptions can happen. For example ```
-```* throw <tt>LifeGameException</tt> might be thrown.```
-``` * It is wrong to write a program that depended on an```
-``` * exception for its correctness:  <i>the fail-fast behavior```
-``` * should not be used</i>`````
+```/** <p>Many different types of exceptions can happen. For example ```
+```/** throw <tt>LifeGameException</tt> might be thrown.```
+```/** It is wrong to write a program that depended on an```
+```/** exception for its correctness:  <i>the fail-fast behavior```
+```/** should not be used</i>`````
 
 _Задание 5._ Экспортируйте ваш пакет разработанного программного модуля как Javadoc. Используйте  команду меню Project/Generate Javadoc. Выберите только ваш пакет для создания Javadoc, в Мастере генерации Javadoc. Не забудьте установить опции и целевой каталог.
 
