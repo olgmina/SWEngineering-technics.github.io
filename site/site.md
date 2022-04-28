@@ -1,6 +1,7 @@
 # Документирование программного проекта
 
-_Задание1._ Создать новый проект на github, использовать [шаблон]() для описания проекта с разметкой Markdown
+_Задание1._ Создать новый проект на github, использовать [шаблон](https://github.com/olgmina/open-source-project-template.git) для описания проекта с разметкой Markdown
+
 
 [Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax), [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
