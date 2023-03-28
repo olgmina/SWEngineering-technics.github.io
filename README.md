@@ -25,4 +25,4 @@
  7. Верификация и оценка качества программного продукта
  8. [**Конфигурационное управление**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/61f0ee3b596c8f762d5afd121c5a8e380c70f928/CM.md)
  9. [**Подготовка выпуска**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/f36baaea62e4b8e62ee13cc9a7598755f90e623a/reliase/release.md)
- 10.[**Рефакторинг**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/da217bba57f67dfc178527a39e15bbb0f7316d1f/Refactoring/refactoring.md)
+ 10. [**Рефакторинг**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/da217bba57f67dfc178527a39e15bbb0f7316d1f/Refactoring/refactoring.md)
