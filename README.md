@@ -15,6 +15,7 @@
     - Лямбда
     - 
  4. [**Документирование программного кода/проекта/продукта**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/site/site.md)
+- [CodeStyle](https://github.com/netology-code/codestyle/tree/master/java)
 - [Javadocs](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/Coding/Jadocs.md)
 - [Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
  - [Пользователькая документация]
