@@ -35,31 +35,25 @@ Software Engineering for Students: A Programming Approach [учебник](https
  
 Сомервилл [Инженерия ПО](https://drive.google.com/file/d/1dPQFQEV98qIq5fFFESJASeq_NzrrMKmp/view?usp=drive_link)
 
-## Разделы
+## Темы и их содержание
 
  1. [Создание требований](https://github.com/olgmina/SWEngineering-technics.github.io/blob/9859fc662afc93e297f9ebdadb3c544b217a1846/requierements/requirements.md)
 
-  1.1 Уровни и виды требований
+  - [ ] Уровни и виды требований
+  - [ ] Методы извлечения и сбора требований
+  - [ ] Анализ требований
+  - [ ] Документирование требований 
+  - [ ] **Практические задания**
+
+> [!IMPORTANT]  
+> Химонин Ю. И. Сбор и анализ требований к программному продукту [Практическое пособие по разработке требований](https://drive.google.com/file/d/1YL8fEzsbdUQZ6CQx6KMfsxjYxACQaZld/view?usp=drive_link)
+> Халл Э. Разработка и управление требованиями [Практическое руководство пользователя](https://drive.google.com/file/d/1a0lMx6fYvhXlTYEgMijAf2fbjHH0MGb3/view?usp=drive_link)
+> Алистер Корбен Современные методы описания функциональтых требований к системам [Варианты использования как писать](https://drive.google.com/file/d/1ZuxiJJuUlCGAucFqfO4hlhv561SdGtDl/view?usp=drive_link) 
+
+> [!NOTE]
+> Практика
  
-  1.2 Методы извлечения и сбора требований
-
-  1.3 Анаииз требований
-
-  1.4 Документирование требований
-
-  1.5 Практические задания
-
-  1.6 Источники
-  
-Химонин Ю. И. Сбор и анализ требований к программному продукту [Практическое пособие по разработке требований](https://drive.google.com/file/d/1YL8fEzsbdUQZ6CQx6KMfsxjYxACQaZld/view?usp=drive_link)
-
-Халл Э. Разработка и управление требованиями [Практическое руководство пользователя](https://drive.google.com/file/d/1a0lMx6fYvhXlTYEgMijAf2fbjHH0MGb3/view?usp=drive_link)
-  
-Алистер Корбен Современные методы описания функциональтых требований к системам {Варианты использования как писать](https://drive.google.com/file/d/1ZuxiJJuUlCGAucFqfO4hlhv561SdGtDl/view?usp=drive_link) 
-
-
- 2. 
- 3. [Элементы проектирования](https://github.com/olgmina/SWEngineering-technics.github.io/blob/c052f923e28a6717dbbd126809a82ceab3d61e55/design/design.md) 
+ 2. [Элементы проектирования](https://github.com/olgmina/SWEngineering-technics.github.io/blob/c052f923e28a6717dbbd126809a82ceab3d61e55/design/design.md) 
   - [**Паттерны проектирования**](https://sites.google.com/view/study-pattern/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
   - [Примеры реализации паттернов на Java](https://java-design-patterns.com/patterns/) 
  3. {**Методы программирования**]
