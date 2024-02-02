@@ -12,7 +12,7 @@
 [t.me/](http://t.me/) swengenering
 
 <aside>
-💡 Слайды: Yandex.disk/ swengenering/
+💡 Слайды: [к лекциям](https://drive.google.com/drive/folders/1qSamTvobMATo35iFpe9K8MJyiuYh3irR?usp=drive_link)
 
 </aside>
 
@@ -20,11 +20,12 @@
 
 [Пишем по паттернам](https://sites.google.com/view/study-pattern/)
 
-**Журнал (+рейтинг):** [бПИЭ-211]([https://docs.google.com/spreadsheets/d/231group](https://docs.google.com/spreadsheets/d/1v4gSY-yMzVDaksL6wiLaOEexVdpbujy8Iv62L4fvZtA/edit?usp=drive_link))
+
+**Журнал (+рейтинг):** [бПИЭ-211](https://docs.google.com/spreadsheets/d/1v4gSY-yMzVDaksL6wiLaOEexVdpbujy8Iv62L4fvZtA/edit?usp=drive_link)
 
 **Цифровой ассистент:** 
 
-[Зачетный минимум по основам программирования (язык С)](https://stepik.org/course/134959)
+[1](https://stepik.org/course/134959)
 
 **План занятий**
 
