@@ -1,10 +1,14 @@
-# Дисциплина "Программная инженения"/"Технологии программирования" 
+# Дисциплина "Программная инженения"
 
 [План-расписание для бОИС-211]()
-[План-расписание для бПИЭ-211]()
+
+[План-расписание для бПИЭ-211](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/bPIE211.md)
 
 ## Источники
+
 Банк знаний по Программной инженерии [[SWEBOOK]](https://github.com/ligurio/swebok-2004-in-russian).
+Стив Маконелл [Совершенный код](https://drive.google.com/file/d/1u5NUprnXI_wEUDekYeyWhrUyTZq9CNz6/view?usp=drive_link)
+Сомервилл [Инженерия ПО](https://drive.google.com/file/d/1dPQFQEV98qIq5fFFESJASeq_NzrrMKmp/view?usp=drive_link)
 
 ## Разделы
 
