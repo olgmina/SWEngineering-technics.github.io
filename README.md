@@ -6,8 +6,40 @@
 
 ## Источники
 
-Банк знаний по Программной инженерии [[SWEBOOK]](https://github.com/ligurio/swebok-2004-in-russian).
-Стив Маконелл [Совершенный код](https://drive.google.com/file/d/1u5NUprnXI_wEUDekYeyWhrUyTZq9CNz6/view?usp=drive_link)
+Банк знаний по Программной инженерии [[SWEBOOK]](https://github.com/ligurio/swebok-2004-in-russian)
+
+Макконнелл С. Совершенный код. Мастер#класс / Пер. с англ. — М. : Издательство «Русская редакция», 2010. — 896 стр. : ил. [Совершенный код](https://drive.google.com/file/d/1u5NUprnXI_wEUDekYeyWhrUyTZq9CNz6/view?usp=drive_link)
+
+Вольф Эберхард Continuous delivery. Практика непрерывных апдейтов. — СПб.: Питер, 2018. —
+320 с. [Непрерывное развертывание](https://drive.google.com/file/d/1WFSONisOupAKTAb1txwomN8LOUzFMmRo/view?usp=drive_link)
+
+Физерс, Майкл. Эффективная работа с унаследованным кодом. : Пер. с англ. — М. : ООО “И.Д. Вильямс”, 2009. — 400 с. [Унаследованный код](https://drive.google.com/file/d/1SNR6NqV-r7AM_1IBxorsEd8Pu065tqMA/view?usp=drive_link)
+
+Эндрю Хант, Дэвид Томас [Программист-прагматик. Путь от подмастерья к мастеру](https://drive.google.com/file/d/1SGHEMnsUQclPveoFQzATeuAxkaBJhEwn/view?usp=drive_link)
+
+Месарош, Джерард. [Шаблоны тестирования xUnit](https://drive.google.com/file/d/1pUWyKZ2oKsmuQLd95dKqU9i15cljOCjQ/view?usp=drive_link): рефакторинг кода тестов. : Пер. с англ. — М. : ООО “И.Д. Вильямс”, 2016. — 832 с.
+
+Керниrан, Брайан У., Пайк, Роб. [Практика программирования](https://drive.google.com/file/d/1pWJsLg2dH2N8IYomBbc8cNS19CZK_rsc/view?usp=drive_link). : Пер. с англ. - М. : ООО "И.Д. Вильяме", -288 с.
+
+Хориков В. [Принципы юнит-тестирования](https://drive.google.com/file/d/1Ez0hrJH3E7-1HFiX6Mfa6dlRLtMVLUvx/view?usp=drive_link). — СПб.: Питер, 2021. — 320 с.:
+
+Software Engineering for Students: A Programming Approach [учебник](https://drive.google.com/file/d/1u3NbSnZ-LnsFp-qAvWgNHHgLTPSMn3X2/view?usp=drive_link)
+
+Алистер Корбен Современные методы описания функциональтых требований к системам {Варианты использования как писать](https://drive.google.com/file/d/1ZuxiJJuUlCGAucFqfO4hlhv561SdGtDl/view?usp=drive_link)
+
+Липаев В.В. [Документирование сложных программных средств](https://drive.google.com/file/d/1J-Udy3LzBh0pl0IaqK609DgQQCj5iQH4/view?usp=drive_link). – М.: СИНТЕГ, 2005. - 124.с.
+
+Химонин Ю. И. Сбор и анализ требований к программному продукту [Практическое пособие по разработке требований](https://drive.google.com/file/d/1YL8fEzsbdUQZ6CQx6KMfsxjYxACQaZld/view?usp=drive_link)
+
+Халл Э. Разработка и управление требованиями [Практическое руководство пользователя](https://drive.google.com/file/d/1a0lMx6fYvhXlTYEgMijAf2fbjHH0MGb3/view?usp=drive_link)
+
+Тарасов С. Дефрагментация мозга. [Софтостроение изнутри](https://drive.google.com/file/d/0B69c-P1HGyV7bWY1NmxqNWVXQ3M/view?usp=drive_link&resourcekey=0-WQDhqiiqAHDiWHNcjloypA)
+
+Куликов Тестирование программного обеспечения. [Базовый курс](https://drive.google.com/file/d/0B69c-P1HGyV7RnMyMU51a1ByeGM/view?usp=drive_link&resourcekey=0-KUCENt7NHcq_k9QwL8VkfA)
+
+Кулямин В.В. Технологии программирования. Компонентный подход [java web](https://drive.google.com/file/d/1i7IuI4uEF-bFIk_mRQwDN6vZl-x722Su/view?usp=drive_link)
+
+ 
 Сомервилл [Инженерия ПО](https://drive.google.com/file/d/1dPQFQEV98qIq5fFFESJASeq_NzrrMKmp/view?usp=drive_link)
 
 ## Разделы
