@@ -18,9 +18,9 @@
 
 **Методические указания:** 
 
-https://github.com/olgmina/SWEngineering-technics.github.io
+[Пишем по паттернам](https://sites.google.com/view/study-pattern/)
 
-**Журнал (+рейтинг):** [гр.232](https://docs.google.com/spreadsheets/d/231group)
+**Журнал (+рейтинг):** [бПИЭ-211]([https://docs.google.com/spreadsheets/d/231group](https://docs.google.com/spreadsheets/d/1v4gSY-yMzVDaksL6wiLaOEexVdpbujy8Iv62L4fvZtA/edit?usp=drive_link))
 
 **Цифровой ассистент:** 
 
