@@ -21,7 +21,7 @@
 [Пишем по паттернам](https://sites.google.com/view/study-pattern/)
 
 
-**Журнал (+рейтинг):** [бОИСТ-211]([https://docs.google.com/spreadsheets/d/1v4gSY-yMzVDaksL6wiLaOEexVdpbujy8Iv62L4fvZtA/edit?usp=drive_link](https://docs.google.com/spreadsheets/d/10It2Gfc2hiZXdxxXWWUwJU9Kpyft2XktFdruycMXbEA/edit?usp=sharing))
+**Журнал (+рейтинг):** [бОИСТ-211](https://docs.google.com/spreadsheets/d/10It2Gfc2hiZXdxxXWWUwJU9Kpyft2XktFdruycMXbEA/edit?usp=sharing))
 
 **Цифровой ассистент:** 
 
