@@ -1,6 +1,6 @@
 # Дисциплина "Программная инженения"
 
-[План-расписание для бОИС-211]()
+[План-расписание для бОИС-211](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/bOIST-211.md)
 
 [План-расписание для бПИЭ-211](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/bPIE211.md)
 
