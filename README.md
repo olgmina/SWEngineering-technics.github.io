@@ -35,29 +35,44 @@ Software Engineering for Students: A Programming Approach [учебник](https
 
 > [!NOTE]
 > Практика
+> 
 > Задача 1 [Концепция программного проекта](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+> 
 > Задача 2 Моделирование предметной области
+> 
 > Задача 3 [Анализ аналогов](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9)
+> 
 > Задача 5 [Моделирование вариантов использования](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-5-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+> 
 > Задача 7. [Составление ТЗ или спецификации](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-7-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
  
 2.    [Проектирование ПО](https://github.com/olgmina/SWEngineering-technics.github.io/blob/c052f923e28a6717dbbd126809a82ceab3d61e55/design/design.md)
 
-  - [ ] Архитектурное предстаставление, стили и паттерны
-  - [ ] Нотации проектирования
-  - [ ] 1
+  - [ ] Архитектурное проектирование, стили и паттерны
+  - [ ] Принципы проектирования
+  - [ ] Проектирование GUI
   - [ ] 1
  
 
 > [!IMPORTANT]  
-> 1
-> 1
-> 1
+> Richards Mark [Software Architecture Patterns](https://drive.google.com/file/d/11FChg9meH2e45rISf0siijZHExDIPfp8/view?usp=drive_link), 2015
+> Hands-On Software Architecture with Java [Архитектурный подход к разработке](https://drive.google.com/file/d/14xRqkAJnv0HZaR3XL5oQAEJxUF8-QXft/view?usp=drive_link)
+> Simon Brown Software Architecture for Developers: Technical leadership by coding, coaching, collaboration,
+architecture sketching and just enough up front design [наброски об архитектуре](https://drive.google.com/file/d/1RRY7tC2llvgjwVhSIJ96Vdpre7ArQ9OY/view?usp=drive_link)
+> [Идеальная архитектура](https://drive.google.com/file/d/1nIoaqbkY6fgvYdxfqc56Pd_ufi0mVo-u/view?usp=drive_link)
+
+
 
 > [!NOTE]
 > ПРАКТИКА
-> Практическое задание 1
 > 
+> Задача 1 [Разделение по компонентам](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-21-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC)
+> 
+> Задача 2 [Проектирование пользовательского интерфеса](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-22-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0)
+>
+> Задача 3
+>
+> Задача 4 [Моделирование взаимодействия](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-24-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9)
   - 
  3. {**Конструирование ПО**]
 
