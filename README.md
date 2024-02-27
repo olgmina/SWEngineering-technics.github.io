@@ -51,14 +51,18 @@ Software Engineering for Students: A Programming Approach [учебник](https
   - [ ] Архитектурное проектирование, стили и паттерны
   - [ ] Принципы проектирования
   - [ ] Проектирование GUI
-  - [ ] 1
+  - [ ] Нотации (UML)
  
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
+>  
 > Richards Mark [Software Architecture Patterns](https://drive.google.com/file/d/11FChg9meH2e45rISf0siijZHExDIPfp8/view?usp=drive_link), 2015
+> 
 > Hands-On Software Architecture with Java [Архитектурный подход к разработке](https://drive.google.com/file/d/14xRqkAJnv0HZaR3XL5oQAEJxUF8-QXft/view?usp=drive_link)
+> 
 > Simon Brown Software Architecture for Developers: Technical leadership by coding, coaching, collaboration,
 architecture sketching and just enough up front design [наброски об архитектуре](https://drive.google.com/file/d/1RRY7tC2llvgjwVhSIJ96Vdpre7ArQ9OY/view?usp=drive_link)
+> 
 > [Идеальная архитектура](https://drive.google.com/file/d/1nIoaqbkY6fgvYdxfqc56Pd_ufi0mVo-u/view?usp=drive_link)
 
 
@@ -73,7 +77,7 @@ architecture sketching and just enough up front design [наброски об а
 > Задача 3
 >
 > Задача 4 [Моделирование взаимодействия](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-24-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9)
-  - 
+   
  3. {**Конструирование ПО**]
 
   - [ ] [**Паттерны проектирования методические указания**](https://sites.google.com/view/study-pattern/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
