@@ -24,7 +24,7 @@ Software Engineering for Students: A Programming Approach [учебник](https
   - [ ] Методы извлечения и сбора требований
   - [ ] Анализ требований
   - [ ] Документирование требований 
-  - [ ] **Практические задания**
+ 
 
 > [!IMPORTANT]  
 > Химонин Ю. И. Сбор и анализ требований к программному продукту [Практическое пособие по разработке требований](https://drive.google.com/file/d/1YL8fEzsbdUQZ6CQx6KMfsxjYxACQaZld/view?usp=drive_link)
@@ -35,7 +35,11 @@ Software Engineering for Students: A Programming Approach [учебник](https
 
 > [!NOTE]
 > Практика
-> Задание 1
+> Задача 1 [Концепция программного проекта](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+> Задача 2 Моделирование предметной области
+> Задача 3 [Анализ аналогов](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%BE%D0%B1%D0%B7%D0%BE%D1%80-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D1%85-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B9)
+> Задача 5 [Моделирование вариантов использования](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-5-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+> Задача 7. [Составление ТЗ или спецификации](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/requierements/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-7-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
  
 2.    [Проектирование ПО](https://github.com/olgmina/SWEngineering-technics.github.io/blob/c052f923e28a6717dbbd126809a82ceab3d61e55/design/design.md)
 
