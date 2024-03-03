@@ -78,13 +78,14 @@ architecture sketching and just enough up front design [наброски об а
 >
 > Задача 4 [Моделирование взаимодействия](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-24-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9)
    
- 3. {**Конструирование ПО**]
+ 3. [Конструирование ПО](https://github.com/olgmina/SWEngineering-technics.github.io/tree/6d02beb4035185c2b2ce593c42a1aad1cff7eaee/Coding)
 
-  - [ ] [**Паттерны проектирования методические указания**](https://sites.google.com/view/study-pattern/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
+ - [**Паттерны проектирования методические указания**](https://sites.google.com/view/study-pattern/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
   - [Примеры реализации паттернов на Java](https://java-design-patterns.com/patterns/) 
-  - [ ] Обработка исключений и логгирование
+  - [Обработка исключений и логгирование] (https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/Coding/Logging.md)
   - [ ] Структуры данных (коллекции)
-  - [ ] Программирование на Java [Java для начинающих](https://github.com/wapmorgan/java_for_beginners_book)
+  - [ ] Программирование на Java
+  - - [Java для начинающих](https://github.com/wapmorgan/java_for_beginners_book)
 
 > [!IMPORTANT]  
 > Керниrан, Брайан У., Пайк, Роб. [Практика программирования](https://drive.google.com/file/d/1pWJsLg2dH2N8IYomBbc8cNS19CZK_rsc/view?usp=drive_link). : Пер. с англ. - М. : ООО "И.Д. Вильяме", -288 с.
@@ -97,7 +98,9 @@ architecture sketching and just enough up front design [наброски об а
 
 > [!NOTE]
 > ПРАКТИКА
-> Практические задания
+> [Задача 1]
+>
+> [Задача 2]
    
     
  4. [**Документирование программного кода/проекта/продукта**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/site/site.md)
