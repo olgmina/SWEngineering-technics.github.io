@@ -1,5 +1,7 @@
 # Рефакторинг 
-(Refactoring): изменение во внутренней структуре программного обеспечения, имеющее целью облегчить понимание его работы и упростить модификацию, не затрагивая наблюдаемого поведения.[Фаулер М. "Рефакторинг. Улучшение существующего кода"](https://github.com/olgmina/SWEngineering-technics.github.io/blob/beefef0b8ec56610843e780f33ff0c74db4f5da0/Refactoring/Martin_Fauler_-_Refaktoring_Uluchshenie_suschestvu.pdf)
+(Refactoring): изменение во внутренней структуре программного обеспечения, имеющее целью облегчить понимание его работы и упростить модификацию, не затрагивая наблюдаемого поведения.
+
+[Фаулер М. Рефакторинг. Улучшение существующего кода"](https://github.com/olgmina/SWEngineering-technics.github.io/blob/beefef0b8ec56610843e780f33ff0c74db4f5da0/Refactoring/Martin_Fauler_-_Refaktoring_Uluchshenie_suschestvu.pdf)
 - Рефакторинг улучшает композицию программного обеспечения
 - Рефакторинг облегчает понимание программного обеспечения
 - Рефакторинг помогает найти ошибки
