@@ -15,9 +15,22 @@ _Конструирование программного обеспечения 
 
 _Источники_
 
-[Учебник по Java](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8/)
-
-[Обучающие материалы по языку Java](https://docs.oracle.com/javase/tutorial/)
+* [Учебник по Java](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8/)
+* [Обучающие материалы по языку Java](https://docs.oracle.com/javase/tutorial/)
+---------------
+* [Руководство по языку программирования Java](https://metanit.com/java/tutorial) - Евгений Попов
+* [Руководство по Java Core](http://proselyte.net/tutorials/java-core) - Евгений Сулейманов
+* [Руководство по Servlets](http://proselyte.net/tutorials/servlets) - Евгений Сулейманов
+* [Самоучитель по Java с нуля](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/) - Vertex Academy
+* [Собеседование по Java Core](http://javastudy.ru/interview/list-of-question-java-interview)
+* [Собеседование по Java EE](http://javastudy.ru/interview/list-of-questions-javaee-interview)
+* [Учебник по Java 8](https://vertex-academy.com/tutorials/ru/java-8-uchebnik/) - Vertex Academy
+* [Учебник по Java 9](https://vertex-academy.com/tutorials/ru/java-9-uchebnik-teoriya-primery/) - Vertex Academy
+* [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8) - Фёдор Урванов
+* [Язык Java 8](https://easyjava.ru/java/yazyk-java/)
+* [Java Basics](http://www.fandroid.info/tutorial-po-osnovam-yazyka-programmirovaniya-java-dlya-nachinayushhih/)
+* [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
+----------------------------
 
 ### Задача 1 Использование перечислений
 
