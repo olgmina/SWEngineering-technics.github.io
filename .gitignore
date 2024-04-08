@@ -1,0 +1,9 @@
+# Ignore all files in Lect folder except pdf files
+LECTION/*
+!LECTION/*.pdf
+
+# Keep all files in Labs folder
+LABS/*
+
+# Ignore all other files and folders
+*
