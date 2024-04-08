@@ -2,7 +2,6 @@
 LECTION/*
 !LECTION/*.pdf
 
-# Keep all files in Labs folder
-LABS/*
+.idea
 
 # Ignore all other files and folders
