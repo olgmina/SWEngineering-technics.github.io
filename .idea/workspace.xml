@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="979b9791-de60-4055-a443-faeb1309faa6" name="Default Changelist" comment="упорядочивание">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dKcgBwjWN7sGrjYmQpSwDfKnWR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LABS\labs1_Знакомство с IDE" />
+      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LABS\labs2_АбстрактныйСуперкласс" />
+      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LECTION" />
+      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\reliase\Tools" />
+      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\requierements\other" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="979b9791-de60-4055-a443-faeb1309faa6" name="Default Changelist" comment="" />
+      <created>1709760320514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709760320514</updated>
+    </task>
+    <task id="LOCAL-00001" summary="упорядочивание">
+      <created>1709763964758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709763964758</updated>
+    </task>
+    <task id="LOCAL-00002" summary="добавление шаблонов">
+      <created>1711737843301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711737843301</updated>
+    </task>
+    <task id="LOCAL-00003" summary="добавление шаблонов+">
+      <created>1711747739710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711747739710</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавление шаблонов++">
+      <created>1711892055661</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711892055661</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавление шаблонов+++">
+      <created>1711893484581</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711893484581</updated>
+    </task>
+    <task id="LOCAL-00006" summary="добавление шаблонов++++">
+      <created>1711907516737</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711907516737</updated>
+    </task>
+    <task id="LOCAL-00007" summary="финал">
+      <created>1711912163073</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711912163073</updated>
+    </task>
+    <task id="LOCAL-00008" summary="техники кодирования">
+      <created>1711915447325</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711915447325</updated>
+    </task>
+    <task id="LOCAL-00009" summary="техники кодирования правка">
+      <created>1711993772523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711993772523</updated>
+    </task>
+    <task id="LOCAL-00010" summary="тестирование правка">
+      <created>1712004107603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712004107603</updated>
+    </task>
+    <task id="LOCAL-00011" summary="упорядочивание">
+      <created>1712096508506</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712096508506</updated>
+    </task>
+    <task id="LOCAL-00012" summary="упорядочивание">
+      <created>1712598382375</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712598382375</updated>
+    </task>
+    <task id="LOCAL-00013" summary="упорядочивание">
+      <created>1712599641880</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712599641880</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавление шаблонов" />
+    <MESSAGE value="добавление шаблонов+" />
+    <MESSAGE value="добавление шаблонов++" />
+    <MESSAGE value="добавление шаблонов+++" />
+    <MESSAGE value="добавление шаблонов++++" />
+    <MESSAGE value="финал" />
+    <MESSAGE value="техники кодирования" />
+    <MESSAGE value="техники кодирования правка" />
+    <MESSAGE value="тестирование правка" />
+    <MESSAGE value="упорядочивание" />
+    <option name="LAST_COMMIT_MESSAGE" value="упорядочивание" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1712514304357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1712514304357" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1712599728136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1712599728136" />
+    <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1711737191860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1711737191860" />
+  </component>
+</project>
