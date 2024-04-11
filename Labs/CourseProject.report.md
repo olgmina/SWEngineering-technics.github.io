@@ -21,7 +21,7 @@
 - задачи анализа (проверки и валидации);
 - задачи оптимизации трудозатрат при решении задач поиска и анализа.
   
-  [Концепция программы](SWEngineering-technics.github.io/requierements/Techniques/templates/concept.md) представлена в приложении 1.
+  [Концепция программы](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages//requierements/Techniques/templates/concept.md) представлена в приложении 1.
  
   [Анализ прототипов]() в таблице 1.
   
@@ -31,27 +31,27 @@
   
   Пользователь имеет возможность …, осуществить …, запустить …, проанализировать …, получить результаты анализа и обработки …, построить … и т. п.  
   
-  [Сценарии использования](SWEngineering-technics.github.io/requierements/Techniques/templates/scanario.md) <указать название> - в приложении 2
+  [Сценарии использования](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages//requierements/Techniques/templates/scanario.md) <указать название> - в приложении 2
   
 ### 1.3 Нефункциональные требования, ограничения и интерфейсы
  
   *Необходима поддержка REST API онлайновыми сервисами поиска*
    
-  [Техническое задание](//requierements/Techniques/templates/techtask.md) в приложении 3
+  [Техническое задание](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages//requierements/Techniques/templates/techtask.md) в приложении 3
   
 ## 2. Проектная часть
   
 ### 2.1.	 Архитектура приложения
 
   Для обеспечения <указать совместимости/простоты/удобства> была выбрана архитектура <указать архитектурный стиль>
-   https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-21-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BC
-  [Подробное описание](design/design.md:39)
+ 
+   [Подробное описание](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md:39)
   
 ### 2.2.	Проектирование пользовательского интерфейса
  
   В соотвествии с ТЗ интерфейс пользователя должен быть реализован в виде ….(формы ввода данных/диалога/командного языка)
   
-  [Раскадровка интерфейса](design/design.md:86) на рис.2.
+  [Раскадровка интерфейса](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages//design/design.md:86) на рис.2.
   
 ### 2.3.	Модель данных ПС
   
@@ -80,13 +80,13 @@
   
   Даиграмма классов по пакетам <указать название> на рис. 7-9
   
-  Документация по методам бизнес-логики и модели выполнена в [javadocs](QA&docs/site.md:33) и представлена в приложении 5.
+  Документация по методам бизнес-логики и модели выполнена в [javadocs](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/QA&docs/site.md:33) и представлена в приложении 5.
   
 ### 3.2   Тестирование ПС 
   
   Для тестирования ПС по сценариям <указать название> разработаны unit-тесты в приложении 6.
   
-  Для сценария использования <указать название> [контрольный пример](testing/templates/test_case.md) в таблице 3.
+  Для сценария использования <указать название> [контрольный пример](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/testing/templates/test_case.md) в таблице 3.
   
   ??Результаты приемочного тестирования в приложении 6.
   
