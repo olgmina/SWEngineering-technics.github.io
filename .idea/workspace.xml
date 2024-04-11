@@ -22,8 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979b9791-de60-4055-a443-faeb1309faa6" name="Default Changelist" comment="упорядочивание">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="979b9791-de60-4055-a443-faeb1309faa6" name="Default Changelist" comment="настройка репо">
+      <change afterPath="$PROJECT_DIR$/Labs/CourseProject.report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA&amp;docs/site.md" beforeDir="false" afterPath="$PROJECT_DIR$/QA&amp;docs/site.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/design.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/design.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +54,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\design" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LABS\labs1_Знакомство с IDE" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LABS\labs2_АбстрактныйСуперкласс" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LECTION" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\reliase\Tools" />
-      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\requierements\other" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
