@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="979b9791-de60-4055-a443-faeb1309faa6" name="Default Changelist" comment="добавлен шаблон КП">
-      <change beforePath="$PROJECT_DIR$/testing/junit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/CourseProject.report.md" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/CourseProject.report.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712874659012</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="добавлен шаблон КП">
+      <created>1712875251691</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712875251691</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,10 +207,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="397" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1712514304357" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1712874848843">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1712875258904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1712874848843" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1712875258904" />
     <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1711737191860">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
