@@ -22,11 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979b9791-de60-4055-a443-faeb1309faa6" name="Default Changelist" comment="настройка репо">
-      <change afterPath="$PROJECT_DIR$/Labs/CourseProject.report.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QA&amp;docs/site.md" beforeDir="false" afterPath="$PROJECT_DIR$/QA&amp;docs/site.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/design.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/design.md" afterDir="false" />
+    <list default="true" id="979b9791-de60-4055-a443-faeb1309faa6" name="Default Changelist" comment="добавлен шаблон КП">
+      <change beforePath="$PROJECT_DIR$/testing/junit.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\testing\Tools" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\design" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LABS\labs1_Знакомство с IDE" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LABS\labs2_АбстрактныйСуперкласс" />
       <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\LECTION" />
-      <recent name="C:\Users\olgmi\IdeaProjects\SWEngineering-technics.github.io\reliase\Tools" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -161,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712599641880</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="добавлен шаблон КП">
+      <created>1712874659012</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712874659012</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,17 +191,18 @@
     <MESSAGE value="техники кодирования правка" />
     <MESSAGE value="тестирование правка" />
     <MESSAGE value="упорядочивание" />
-    <option name="LAST_COMMIT_MESSAGE" value="упорядочивание" />
+    <MESSAGE value="добавлен шаблон КП" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлен шаблон КП" />
   </component>
   <component name="WindowStateProjectService">
     <state x="397" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1712514304357">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="397" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1712514304357" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1712599728136">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1712874848843">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1712599728136" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1712874848843" />
     <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1711737191860">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
