@@ -2,7 +2,10 @@
 LECTION/*
 !LECTION/*.pdf
 
-.idea/*
+Labs/*
+!Labs/*.md
 
 
 # Ignore all other files and folders
+.idea
+
