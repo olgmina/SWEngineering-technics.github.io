@@ -21,3 +21,7 @@
 
  
 Рис. B – Шаблон построения диаграммы последовательностей взаимодействия объектов программы
+
+## Диаграмма деятельности
+
+![image](https://github.com/olgmina/SWEngineering-technics.github.io/design/Techniques/Деятельности_диаграмма_шаблон.png)

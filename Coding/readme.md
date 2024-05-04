@@ -31,6 +31,8 @@ _Источники_
 * [Java Basics](http://www.fandroid.info/tutorial-po-osnovam-yazyka-programmirovaniya-java-dlya-nachinayushhih/)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 ----------------------------
+* [Java How to Program, Early Objects, 11 изд. Дейтелл](Coding/Fundamentals/Java_How_to_Program_11th_Early_Objects.pdf)
+*
 
 ### Задача 1 Использование перечислений
 
