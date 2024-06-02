@@ -10,7 +10,6 @@
 
 Software Engineering for Students: A Programming Approach [учебник](https://drive.google.com/file/d/1u3NbSnZ-LnsFp-qAvWgNHHgLTPSMn3X2/view?usp=drive_link)
 
-Липаев В.В. [Документирование сложных программных средств](https://drive.google.com/file/d/1J-Udy3LzBh0pl0IaqK609DgQQCj5iQH4/view?usp=drive_link). – М.: СИНТЕГ, 2005. - 124.с.
 
 Тарасов С. Дефрагментация мозга. [Софтостроение изнутри](https://drive.google.com/file/d/0B69c-P1HGyV7bWY1NmxqNWVXQ3M/view?usp=drive_link&resourcekey=0-WQDhqiiqAHDiWHNcjloypA)
 
@@ -104,12 +103,16 @@ architecture sketching and just enough up front design [наброски об а
    
     
  4. [**Документирование программного кода/проекта/продукта**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/site/site.md)
+ 
+> [!NOTE]
+> Липаев В.В. [Документирование сложных программных средств](https://drive.google.com/file/d/1J-Udy3LzBh0pl0IaqK609DgQQCj5iQH4/view?usp=drive_link). – М.: СИНТЕГ, 2005. - 124.с.
+
 
  - [ ]  [CodeStyle](https://github.com/netology-code/codestyle/tree/master/java)
  - [ ]  [Javadocs](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/Coding/Jadocs.md)
  - [ ]  [Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
  - [ ]  
- - [ ]  [Разработка пользователькой документации]
+ - [ ]  [Разработка пользователькой документации](https://github.com/SWEngineering-technics.github.io/QA&docs/docs.md)
  - 
  5. [**Тестирование ПО**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4d015f8685f1e47f55fce2acd5846b3d6861d415/testing/testing.md) (включая Функциональное, unit-тесты и средства автоматизации)  
  
