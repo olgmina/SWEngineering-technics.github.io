@@ -76,16 +76,18 @@ architecture sketching and just enough up front design [наброски об а
 > Задача 23 [Построение информационной архитектуры (модели данных)]()
 >
 > Задача 24 [Моделирование взаимодействия](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/design/design.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-24-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9)
-   
+ -----  
  3. [Конструирование ПО](https://github.com/olgmina/SWEngineering-technics.github.io/tree/6d02beb4035185c2b2ce593c42a1aad1cff7eaee/Coding)
 
  - [**Паттерны проектирования методические указания**](https://sites.google.com/view/study-pattern/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
+ 
  - [Примеры реализации паттернов на Java](https://java-design-patterns.com/patterns/) 
- - [Обработка исключений и логгирование] (https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/Coding/Logging.md)
-  - [ ] Структуры данных (коллекции)
-  - [ ] Программирование на Java
-  - - [Java для начинающих](https://github.com/wapmorgan/java_for_beginners_book)
+ 
+  - [ ] Структурирование данных (коллекции данных)
+  - [ ] Паттерны проектирования
+  - [ ] Методы конструирования: Обработка исключений, логгирование, использование перечислений
 
+ 
 > [!IMPORTANT]  
 > Керниrан, Брайан У., Пайк, Роб. [Практика программирования](https://drive.google.com/file/d/1pWJsLg2dH2N8IYomBbc8cNS19CZK_rsc/view?usp=drive_link). : Пер. с англ. - М. : ООО "И.Д. Вильяме", -288 с.
 > 
@@ -97,24 +99,19 @@ architecture sketching and just enough up front design [наброски об а
 
 > [!NOTE]
 > ПРАКТИКА
-> [Задача 1]
 >
-> [Задача 2]
+> Задача 31. [Использование перечислений в реализации программы](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/3_Construction/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-31-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B)
+>
+> Задача 32. [Обработка ошибочных ситуаций и исключений](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/3_Construction/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-32-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D1%87%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B9-%D0%B8-%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B9)
+>
+> Задача 33. [Использование логгирования](https://github.com/olgmina/SWEngineering-technics.github.io/blob/3f400b321c5f30e51b49f264bd45a4e3c14229f2/3_Construction/Techniques/Logging.md)
+>
+> Задача 35. [Обзор кода](https://github.com/olgmina/SWEngineering-technics.github.io/blob/3f400b321c5f30e51b49f264bd45a4e3c14229f2/3_Construction/Techniques/codereview.md)
+>
+> Задача 36. [Написание комментариев](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/3_Construction/readme.md#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-36-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2)
    
-    
- 4. [**Документирование программного кода/проекта/продукта**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/site/site.md)
- 
-> [!NOTE]
-> Липаев В.В. [Документирование сложных программных средств](https://drive.google.com/file/d/1J-Udy3LzBh0pl0IaqK609DgQQCj5iQH4/view?usp=drive_link). – М.: СИНТЕГ, 2005. - 124.с.
-
-
- - [ ]  [CodeStyle](https://github.com/netology-code/codestyle/tree/master/java)
- - [ ]  [Javadocs](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/Coding/Jadocs.md)
- - [ ]  [Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
- - [ ]  
- - [ ]  [Разработка пользователькой документации](https://github.com/SWEngineering-technics.github.io/QA&docs/docs.md)
- - 
- 5. [**Тестирование ПО**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4d015f8685f1e47f55fce2acd5846b3d6861d415/testing/testing.md) (включая Функциональное, unit-тесты и средства автоматизации)  
+  ------------------------  
+ 4. [**Тестирование ПО**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4d015f8685f1e47f55fce2acd5846b3d6861d415/testing/testing.md) (включая Функциональное, unit-тесты и средства автоматизации)  
  
   - [ ] Понятие тестирования, уровни
   - [ ] Процесс тестирования
@@ -123,18 +120,21 @@ architecture sketching and just enough up front design [наброски об а
  
 
 > [!IMPORTANT]  
+>
 > Куликов Тестирование программного обеспечения. [Базовый курс](https://drive.google.com/file/d/0B69c-P1HGyV7RnMyMU51a1ByeGM/view?usp=drive_link&resourcekey=0-KUCENt7NHcq_k9QwL8VkfA) 
 > Месарош, Джерард. [Шаблоны тестирования xUnit](https://drive.google.com/file/d/1pUWyKZ2oKsmuQLd95dKqU9i15cljOCjQ/view?usp=drive_link): рефакторинг кода тестов. : Пер. с англ. — М. : ООО “И.Д. Вильямс”, 2016. — 832 с.
 > Хориков В. [Принципы юнит-тестирования](https://drive.google.com/file/d/1Ez0hrJH3E7-1HFiX6Mfa6dlRLtMVLUvx/view?usp=drive_link). — СПб.: Питер, 2021. — 320 с.:
 
-> 1
 
 > [!NOTE]
+>
 > ПРАКТИКА
 > Практическое задание 1
 > 
   - [Теория](https://github.com/olgmina/SWEngineering-technics.github.io/blob/42290a5ba66c0c84dd4c002133f3ac0bf7ffdc88/software%20testing%20-%20base%20course%20(svyatoslav_kulikov).pdf)
  -   [Примеры]
+ 
+ 
  6. Верификация и оценка качества программного продукта
   
  7. [**Подготовка выпуска**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/f36baaea62e4b8e62ee13cc9a7598755f90e623a/reliase/release.md)
@@ -142,7 +142,8 @@ architecture sketching and just enough up front design [наброски об а
   - [ ] Сборка 
   - [ ] [**Конфигурационное управление**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/61f0ee3b596c8f762d5afd121c5a8e380c70f928/CM.md)
   - [ ] Система контроля версий (git)
-  - [ ] 1
+  - [ ] Липаев В.В. [Документирование сложных программных средств](https://drive.google.com/file/d/1J-Udy3LzBh0pl0IaqK609DgQQCj5iQH4/view?usp=drive_link). – М.: СИНТЕГ, 2005. - 124.с.
+
      
  8. [**Сопровождение ПО**](https://github.com/olgmina/SWEngineering-technics.github.io/blob/da217bba57f67dfc178527a39e15bbb0f7316d1f/Refactoring/refactoring.md)
 

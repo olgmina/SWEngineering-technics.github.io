@@ -13,6 +13,8 @@ _Конструирование программного обеспечения 
 
 _Источники_
 
+* [Java для начинающих](https://github.com/wapmorgan/java_for_beginners_book)
+
 * [Учебник по Java](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8/)
 * [Обучающие материалы по языку Java](https://docs.oracle.com/javase/tutorial/)
 ---------------
@@ -154,9 +156,11 @@ public void doSomething() {
 
 Абстрагирующий фреймворк slf4j («Service Logging Facade For Java») включает классы slf4j, которые могут вызвать методы других библиотек логирования: log4j, стандартный java.util.logging и другие.
 
->[О логгировании: примеры и задания](3_Construction/Techniques/Logging.md)
+>[О логгировании: примеры и задания](https://github.com/olgmina/SWEngineering-technics.github.io/blob/99a6c323b3340c951378e9446e83688d1747cfc8/3_Construction/Techniques/Logging.md)
 
-> [Варианты индивидуальных заданий]()
+> Варианты индивидуальных заданий
+>
+А. Создайте логгирование запросов к БД в [Менеджер задач]()
 ____________
 
 ### Задача 34 Использование структур управления
@@ -167,7 +171,9 @@ ____________
 Набор правил и стандартов, определяющих, как должен быть написан код, включающий в себя форматирование, именование переменных и функций, стиль комментариев и т.д.
 является основой для статического анализа программного кода
 
->[Чек-лист codereview](3_Construction/Techniques/Logging.md)
+[CodeStyle](https://github.com/netology-code/codestyle/tree/master/java)
+
+>[Чек-лист codereview](https://github.com/olgmina/SWEngineering-technics.github.io/blob/99a6c323b3340c951378e9446e83688d1747cfc8/3_Construction/Techniques/Logging.md)
 >
 >> [Варианты индивидуальных заданий]()
 >
@@ -182,10 +188,14 @@ ____________
 
 * для улучшения его читаемости и понимания.
 
+- [ ]  [Javadocs](https://github.com/olgmina/SWEngineering-technics.github.io/blob/4213776a1389719ce8f7ddb291431181974b478e/Coding/Jadocs.md)
+- [ ]  [Шпаргалка по markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+
 >
 > [Упражнение]()
 `
-> [Примеры ]()
+> _Примеры_
 >
 Специальные комментарии в исходном коде Java, разделенные ``/** ... */`` разделителями (документирующие комментарии) обрабатываются инструментом Javadoc для создания документации API. Комментарий документа пишется на HTML и должен предшествовать объявлению класса, поля, конструктора или метода. Он состоит из текстового описания и, следующих за ним, блочных тегов.
 
@@ -223,8 +233,6 @@ String str = inData.readLine ();
 return (new Double(str)).doubleValue() ;
 }
 ```
-
-[Использование javaDocs](https://github.com/olgmina/SWEngineering-technics.github.io/blob/7f327ad6916aaaa0d6daef09f4664efbe6cb8a6c/Coding/Jadocs.md)
 
 >> Варианты индивидуальных заданий
 >
