@@ -1,15 +1,11 @@
-# Дисциплина "Программная инженения"
+# Дисциплина "Программная инженерия"
 
-[План-расписание для бОИС-211](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/bOIST-211.md)
-
-[План-расписание для бПИЭ-211](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/bPIE211.md)
 
 ## Источники
 
 Банк знаний по Программной инженерии [[SWEBOOK]](https://github.com/ligurio/swebok-2004-in-russian)
 
 Software Engineering for Students: A Programming Approach [учебник](https://drive.google.com/file/d/1u3NbSnZ-LnsFp-qAvWgNHHgLTPSMn3X2/view?usp=drive_link)
-
 
 Тарасов С. Дефрагментация мозга. [Софтостроение изнутри](https://drive.google.com/file/d/0B69c-P1HGyV7bWY1NmxqNWVXQ3M/view?usp=drive_link&resourcekey=0-WQDhqiiqAHDiWHNcjloypA)
 
