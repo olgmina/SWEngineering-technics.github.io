@@ -4,7 +4,7 @@ LECTION/*
 
 Labs/*
 !Labs/*.md
-
+!Resource
 
 # Ignore all other files and folders
 .idea
