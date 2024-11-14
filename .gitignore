@@ -1,3 +1,8 @@
+Arhiv/*
+
+#не включать файлы с символа подчерникивания (собственные)_
+!_config.yml  # Исключение для файла _config.yml
+
 # Ignore all files in Lect folder except pdf files
 LECTION/*
 !LECTION/*.pdf
