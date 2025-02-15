@@ -29,9 +29,9 @@
 
 **Журнал (+рейтинг):**
 
-[бПИЭ-221](https://docs.google.com/spreadsheets/d/1GGOf3A1QmLzGO4K1G2Xl2FTPhGy8LXQsudgGWn2_fYc/edit?usp=sharing)
+[бПИЭ-221](https://docs.google.com/spreadsheets/d/14nwifE5WNsDZpGlvEggeKdB3CzdZKKVJwGUPG074ENQ/edit?usp=drive_link)
 
-[бПИЭ-222](https://docs.google.com/spreadsheets/d/1GGOf3A1QmLzGO4K1G2Xl2FTPhGy8LXQsudgGWn2_fYc/edit?usp=drive_link)
+[бПИЭ-222](https://docs.google.com/spreadsheets/d/1_q7j5GqUmSRp7TrE3Vx7TM1yEB3lCkT4g-SuwKjkhVo/edit?usp=drive_link)
 
 **Цифровой ассистент:** 
 
