@@ -29,5 +29,5 @@
 
 Шаблоны для:
 - [описание ПС](QA&docs/Managment/description.md)
-- [руководство пользователя](SWEngineering-technics.github.io/QA&docs/Managment/guideUser.md)
+- [руководство пользователя](QA&docs/Managment/guideUser.md)
 - [технологическая инструкция]()
