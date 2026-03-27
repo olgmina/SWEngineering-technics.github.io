@@ -9,8 +9,20 @@
 
 Откроем терминал и установим Git:
 
+Для Ubuntu-подобных систем
 ```bash
-apt-get install git
+apt update
+apt install git
+```
+
+Для MacOs
+```bash
+brew install git
+```
+
+Для Windows
+```PowerShell
+winget install -e --id Git.Git
 ```
 
 Затем установите имя и email пользователя:
@@ -65,11 +77,19 @@ Git — это распределённая система контроля ве
 
 Проверим. Создадим файл **README.md** с помощью команды:
 
+Для Windows
+`New-Item README.md`
+
+Для всех Unix-like систем
 `touch README.md`
 
 Зайдем в файл **README.md**:
 
+Для всех Unix-like систем
 `nano README.md`
+
+Для Windows
+`notepad README.md`
 
 И добавим строчку `Hello world!`.
 
