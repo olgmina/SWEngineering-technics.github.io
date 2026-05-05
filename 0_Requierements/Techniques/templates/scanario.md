@@ -16,7 +16,7 @@ __Сценарий использования__
   
 ## Диаграмма вариантов использования
 
-[Здесь следует поместить диаграмму  вариантов использования в целом](requierements/templates/Use+case+diagram.jpg)
+![Gример](0_Requierements/Techniques/templates/scanario.md)
 
 ##Основной поток
   

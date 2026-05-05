@@ -62,3 +62,6 @@
 По итогу вы можете работать с базой git без интернета и доступа к центральному серверу.
 
 За основу материала был взят [git-scm](https://git-scm.com/book/ru/v2/).
+
+[Технологические инструкции по git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
+
