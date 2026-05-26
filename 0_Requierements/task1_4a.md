@@ -35,7 +35,7 @@ created: 2025-05-26
 
 
 - [Шаблон SRS по IEEE 830](https://github.com/rick4470/IEEE-SRS-Tempate)
-- [Пример нефункциональных требований](0_Requierements/Techniques/examples/нефункциональные.pdf)
+- [Пример нефункциональных требований](Techniques/examples/нефункциональные.pdf)
 - [Рекомендации IEEE 830](0_Requierements/Techniques/Рекомендации IEEE по разработке требований к программному обеспечению.docx)
 - ISO/IEC/IEEE 29148:2018
 
@@ -75,5 +75,5 @@ created: 2025-05-26
 4. Описание внешних интерфейсов (из Задачи 1)
 5. Критерии приемки (из всех задач)
 
-по [шаблону](0_Requierements/Techniques/templates/specification.md)
+по [шаблону](Techniques/templates/specification.md)
 

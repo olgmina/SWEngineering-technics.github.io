@@ -1,10 +1,10 @@
 ---
 title: "Моделирование пользовательских требований" (Построение диаграмм, сценариев по шагам)
 layout: task
-topic_id: 0_Requierements
-difficulty: medium
+topic_id: [0_Requierements]
+difficulty: [medium]
 tags: [заинтересованные лица, варианты использования, потребности пользователей]
-author: 
+author: @olgmina
 created: 2021-09-01
 ---
 
