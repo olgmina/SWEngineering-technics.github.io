@@ -3,7 +3,7 @@
 _Задание1._ Создать новый проект на github, используя [шаблон](https://github.com/olgmina/open-source-project-template.git) для описания проекта с разметкой Markdown
 
 
-[Шпаргалка по .md](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax), 
+[Шпаргалка по .md](<script src="https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c.js"></script>), 
 
 [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
