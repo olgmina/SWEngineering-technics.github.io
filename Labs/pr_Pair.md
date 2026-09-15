@@ -151,32 +151,7 @@
     - Если пары нет — возвращает следующую пару
     - Если пар больше нет на сегодня — возвращает первую пару следующего дня
 
-4. Протестируйте логику в main методе
-
-```java
-public static void main(String[] args) {
-    ScheduleModel model = new ScheduleModel("schedule.csv");
-    
-    // Тест 1: Текущее время 9:30 (до начала первой пары)
-    LocalDateTime testTime1 = LocalDateTime.of(2025, 2, 18, 9, 30);
-    Pair nextPair1 = model.findNextPair(testTime1);
-    System.out.println("Время: " + testTime1);
-    System.out.println("Следующая пара: " + nextPair1);
-    
-    // Тест 2: Текущее время 11:00 (идет вторая пара)
-    LocalDateTime testTime2 = LocalDateTime.of(2025, 2, 18, 11, 0);
-    Pair nextPair2 = model.findNextPair(testTime2);
-    System.out.println("Время: " + testTime2);
-    System.out.println("Текущая пара: " + nextPair2);
-    
-    // Проверьте, что результаты соответствуют ожиданиям
-    if (nextPair1.getSubjectName().equals("Математика")) {
-        System.out.println("✅ Тест 1 пройден!");
-    } else {
-        System.out.println("❌ Тест 1 не пройден!");
-    }
-}
-```
+4. Подумайте о переносе логики в ScheduleController
 
 ## Варианты индивидуальных заданий
 
@@ -199,6 +174,8 @@ public static void main(String[] args) {
 | 13 | **XML**        | Атрибутивный | Время как атрибут, пустые теги                   | `<pair start="09:00" end="10:30"><subject>Математика</subject></pair>`                                  | Высокая   |
 | 14 | **TSV**        | Табулированный | Как CSV с табуляцией                             | `Понедельник	09:00	10:30	Математика`                                                                    | Низкая    |
 | 15 | **Markdown**   | Табличный | `                                                | |  Пн       || 09:00-10:30 || Математика ||` | Человекочитаемый |
+| 16 | **excel**   | Табличный | `                                                | |  Пн       || 09:00-10:30 || Математика ||` | Человекочитаемый |
+
 
  Легенда сложности
 
