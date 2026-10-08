@@ -85,7 +85,7 @@ Point / Circle / Square
 Она не должна содержать логику создания каждого конкретного типа элемента.
 Предполагается разделение ответственности (действия пользователя, Инструмент, Графический примитив)
 
-![диаграмма](https://github.com/olgmina/SWEngineering-technics.github.io/blob/gh-pages/5_Release/Techniques/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20git.md)
+![диаграмма](./Resource/UML-схема графических элементов.png)
 
 ### Реализация
 
