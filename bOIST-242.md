@@ -10,11 +10,11 @@
 
 **Отчеты по заданиям**  Чтв. (числ) 16:05 - 17.45 ауд. 1405
 
-**Чат-поддержки курса:**
+**Поддержки курса:**
 https://vk.ru/tech_programm
 
 <aside>
-💡 Слайды прошлых лет (обновление на ЭИОС): 
+💡 Слайды прошлых лет (обновление см на ЭИОС): 
 
 [к лекциям](https://drive.google.com/drive/folders/1jfkX1PF4OlGPBCzqQWq_ZO4W5y_ElSyG?usp=sharing)
 
@@ -25,11 +25,12 @@ https://vk.ru/tech_programm
 [Пишем по паттернам](https://sites.google.com/view/study-pattern/)
 
 
-**Журнал (+рейтинг):** [бОИС-262]()
+**Журнал (+рейтинг):** [бОИС-262](https://docs.google.com/spreadsheets/d/1XWl5H1ll4g_oK8n9dDdXUM6AzzkthmFvSYkf4dUR6yU/edit?usp=sharing)
 
 **Цифровой ассистент:** 
 
-[Лаб 1-2]([https://stepik.org/course/134959](https://stepik.org/course/126185)
+[Лаб 1-2](Калькулятор ИМТ](https://stepik.org/course/126185)
+[Лаб 3-4](Графредактор](https://stepik.org/course/126185)
 
 **План занятий**
 
